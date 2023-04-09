@@ -1,0 +1,41 @@
+# CounterStrike V1.0 Inventory Config || Copyright (C) 2023 IdW0309 || PRIXI0US
+#
+# Categories you can choose from:
+# Handgun, Automatic_Rifle, Teser, Melee, Throable1, Throable2, Bomb (only for terrorist)
+#
+# !!!!The Bomb spot will also be the shop in the shop time of the game!!!!
+#
+Inventorys:
+  Bomb:
+    Inventory-slots:
+      4:
+        Categorie: 'Bomb'
+
+  CT-Standard-Inv:
+    Inventory-slots:
+      0:
+        Categorie: 'Handgun'
+      1:
+        Categorie: 'Automatic_Rifle'
+      2:
+        Categorie: 'Teser'
+      6:
+        Categorie: 'Melee'
+      7:
+        Categorie: 'Throable1'
+      8:
+        Categorie: 'Throable2'
+  T-Standard-Inv:
+    Inventory-slots:
+      0:
+        Categorie: 'Handgun'
+      1:
+        Categorie: 'Automatic_Rifle'
+      2:
+        Categorie: 'Teser'
+      6:
+        Categorie: 'Melee'
+      7:
+        Categorie: 'Throable1'
+      8:
+        Categorie: 'Throable2'

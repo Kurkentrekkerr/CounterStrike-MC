@@ -1,0 +1,37 @@
+Weapons:
+  glock19:
+    Material: WOODEN_HOE
+    Name: 'Glock 19'
+    NbtItem:
+      isNbtItem: true
+      NBT-Data: "glock19"
+  ak47:
+    Material: WOODEN_HOE
+    Name: 'Ak-47'
+    NbtItem:
+      isNbtItem: true
+      NBT-Data: "ak47"
+  grenade:
+    Material: GOLD_INGOT
+    Name: 'Grenade'
+    NbtItem:
+      isNbtItem: true
+      NBT-Data: "grenade"
+  zakmes:
+    Material: WOODEN_SWORD
+    Name: 'Knife'
+    NbtItem:
+      isNbtItem: true
+      NBT-Data: "knife"
+  teser:
+    Material: WOODEN_HOE
+    Name: 'Teser'
+    NbtItem:
+      isNbtItem: true
+      NBT-Data: "teser"
+  bomb:
+    Material:
+    Name: 'Bomb'
+    NbtItem:
+      isNbtItem: true
+      NBT-Data: "c4"

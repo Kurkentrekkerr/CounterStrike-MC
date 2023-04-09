@@ -1,0 +1,281 @@
+# CounterStrike V1.0 Inventory Config || Copyright (C) 2023 IdW0309 || PRIXI0US
+
+Inventorys:
+  Counter-Terrorist-Store:
+    Rows: 4
+    Name: 'Weapon Store'
+    Inventory-ids:
+      10:
+        Material: WOODEN_HOE
+        Name: glock19
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "glock19"
+      11:
+        Material: WOODEN_HOE
+        Name: ak47
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "ak47"
+      12:
+        Material: WOODEN_HOE
+        Name: Awp
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "awp"
+      19:
+        Material: WOODEN_HOE
+        Name: 'Desert Eagle'
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "deserteagle"
+      20:
+        Material: WOODEN_HOE
+        Name: 'm4 carbine'
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "m4c"
+      22:
+        Material: WOODEN_HOE
+        Name: M16A4
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "m16a4"
+      21:
+        Material: WOODEN_HOE
+        Name: MP5
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "mp5"
+      13:
+        Material: WOODEN_HOE
+        Name: ump45
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "ump45"
+      33:
+        Material: WOODEN_SWORD
+        Name: Knife
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "Knife"
+      32:
+        Material: IRON_INGOT
+        Name: Bomb
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "c4"
+      14:
+        Material: GOLD_INGOT
+        Name: Grenade
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "grenade"
+      23:
+        Material: WOODEN_HOE
+        Name: Teser
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "teser"
+      16:
+        Material: CHAINMAIL_HELMET
+        Name: Helmet
+        Functions:
+          hasFunction: true
+          function: Buy-Armour
+        NbtItem:
+          isNbtItem: false
+      25:
+        Material: CHAINMAIL_CHESTPLATE
+        Name: Chestplate
+        Functions:
+          hasFunction: true
+          function: Buy-Armour
+        NbtItem:
+          isNbtItem: false
+
+  Terrorist-Store:
+    Rows: 4
+    Name: 'Weapon Store'
+    Inventory-ids:
+      10:
+        Material: WOODEN_HOE
+        Name: glock19
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "glock19"
+      11:
+        Material: WOODEN_HOE
+        Name: ak47
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "ak47"
+      12:
+        Material: WOODEN_HOE
+        Name: Awp
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "awp"
+      19:
+        Material: WOODEN_HOE
+        Name: 'Desert Eagle'
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "deserteagle"
+      20:
+        Material: WOODEN_HOE
+        Name: 'm4 carbine'
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "m4c"
+      22:
+        Material: WOODEN_HOE
+        Name: M16A4
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "m16a4"
+      21:
+        Material: WOODEN_HOE
+        Name: MP5
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "mp5"
+      13:
+        Material: WOODEN_HOE
+        Name: ump45
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "ump45"
+      33:
+        Material: WOODEN_SWORD
+        Name: Knife
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "Knife"
+      32:
+        Material: IRON_INGOT
+        Name: Bomb
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "c4"
+      14:
+        Material: GOLD_INGOT
+        Name: Grenade
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "grenade"
+      23:
+        Material: WOODEN_HOE
+        Name: Teser
+        Functions:
+          hasFunction: true
+          function: Buy-Weapon
+        NbtItem:
+          isNbtItem: true
+          NBT-Data: "teser"
+      16:
+        Material: CHAINMAIL_HELMET
+        Name: Helmet
+        Functions:
+          hasFunction: true
+          function: Buy-Armour
+        NbtItem:
+          isNbtItem: false
+      25:
+        Material: CHAINMAIL_CHESTPLATE
+        Name: Chestplate
+        Functions:
+          hasFunction: true
+          function: Buy-Armour
+        NbtItem:
+          isNbtItem: false
+
+  Game-Lobby:
+    Rows: 3
+    Name: 'Team selector'
+    Inventory-ids:
+      9:
+        Material: BLUE_DYE
+        Name: Counter-Terrorist
+        Functions:
+          hasFunction: true
+          function: Join-Team-CT
+        NbtItem:
+          isNbtItem: false
+      15:
+        Material: YELLOW_DYE
+        Name: Terrorist
+        Functions:
+          hasFunction: true
+          function: Join-Team-T
+        NbtItem:
+          isNbtItem: false

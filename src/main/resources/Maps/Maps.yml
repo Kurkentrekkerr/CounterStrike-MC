@@ -1,0 +1,30 @@
+# CounterStrike V1.0 Map Template Config || Copyright (C) 2023 IdW0309 || PRIXI0US
+# ALL MAPS WILL BE STORED HERE
+
+Arenas:
+  # Example map (Inferno-1)
+  Inferno-1:
+    GameId: 1 #This is a gameid for the plugin to know witch map is witch id, this will make it so you can run multiple maps at the same time. (DO NOT USE A NUMBER TWICE!)
+    World: world #This is the world were the map is based
+    MapName: Inferno #This will be the name showed in the scoreboard
+    Max-Rounds: 30
+    PlayerCount: #This is the maximum and minimum playercount needed to play this map
+      Minimum: 2
+      Maximum: 8
+    Spawnpoints:
+      Lobby: -249--117---71 #This is the lobby of the map
+        x: 0 #-249   <<----ZO MOET HET WORDEN, IS NU NOG ZOALS HIER BOVEN.
+        y: 0 #117
+        z: 0 #-71
+      Terrorist: -254--117---76 #This is the spawnpoint for the Terrorist when the game is started
+        x: 0 #-254
+        y: 0 #117
+        z: 0 #-76
+      Counter-Terrorist: -254--117---71 #This is the spawnpoint for the Counter-Terrorist when the game is started
+        x: 0 #-254
+        y: 0 #117
+        z: 0 #-71
+      Spectator: -254--117---67 #This is the spawnpoint for the Spectators when the game is started (A player will be a spectator when he gets killed)
+        x: 0 #-254
+        y: 0 #117
+        z: 0 #-67
